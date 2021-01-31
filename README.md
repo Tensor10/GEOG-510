@@ -1,2 +1,2 @@
 # GEOG-510
-A Repository for GEOG-510 (Geogharic Software design )
+A Repository for GEOG-510 (Geographic Software design )
